@@ -25,3 +25,14 @@
   - 作者: Justin Poehnelt (Google)
   - 标签: CLI设计, AgentDX, 最佳实践
   - 添加时间: 2026-03-09
+
+- **OpenClaw 2026.3.7 更新解读** — 上下文管理插件化、Agent路由升级
+  - URL: https://mp.weixin.qq.com/s/s_8yqfuwh_hhiey7pYB-aQ
+  - 来源: 量子位 (公众号)
+  - 标签: OpenClaw, 上下文管理, lossless-claw, Agent记忆
+  - 要点:
+    - 可插拔的上下文引擎 (ContextEngine)
+    - lossless-claw 插件实现"永不丢失上下文"
+    - Agent路由能力升级（频道、topic绑定）
+    - GPT-5.4 和 Gemini Flash 3.1 支持
+  - 添加时间: 2026-03-09
