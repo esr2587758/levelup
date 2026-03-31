@@ -36,3 +36,7 @@
     - Agent路由能力升级（频道、topic绑定）
     - GPT-5.4 和 Gemini Flash 3.1 支持
   - 添加时间: 2026-03-09
+
+### 行业动态
+
+- [Harness engineering: leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/) — OpenAI 团队分享零手写代码、全 Codex agent 驱动的产品开发实践与经验。添加于 2026-03-31
