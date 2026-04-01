@@ -40,3 +40,5 @@
 ### 行业动态
 
 - [Harness engineering: leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/) — OpenAI 团队分享零手写代码、全 Codex agent 驱动的产品开发实践与经验。添加于 2026-03-31
+
+- [你不知道的 Agent：原理、架构与工程实践](https://x.com/HiTw93/status/2034627967926825175) — Tw93 深度解析 Agent 底层原理，涵盖 Agent Loop、上下文工程、工具设计、记忆系统、多 Agent 协作与评测。添加于 2026-04-01
