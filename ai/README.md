@@ -44,3 +44,5 @@
 - [你不知道的 Agent：原理、架构与工程实践](https://x.com/HiTw93/status/2034627967926825175) — Tw93 深度解析 Agent 底层原理，涵盖 Agent Loop、上下文工程、工具设计、记忆系统、多 Agent 协作与评测。添加于 2026-04-01
 
 - [Writing CLI Tools That AI Agents Actually Want to Use](https://dev.to/uenyioha/writing-cli-tools-that-ai-agents-actually-want-to-use-39no) — 构建 AI Agent 友好的 CLI 工具的 8 条实践规则，涵盖 JSON 输出、退出码、幂等设计等。添加于 2026-04-01
+
+- [You Need to Rewrite Your CLI for AI Agents](https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/) — 面向 AI Agent 的 CLI 设计原则，包括 JSON 优先、运行时 schema 自省、输入防幻觉、dry-run 安全机制等。添加于 2026-04-01
