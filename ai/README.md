@@ -46,3 +46,5 @@
 - [Writing CLI Tools That AI Agents Actually Want to Use](https://dev.to/uenyioha/writing-cli-tools-that-ai-agents-actually-want-to-use-39no) — 构建 AI Agent 友好的 CLI 工具的 8 条实践规则，涵盖 JSON 输出、退出码、幂等设计等。添加于 2026-04-01
 
 - [You Need to Rewrite Your CLI for AI Agents](https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/) — 面向 AI Agent 的 CLI 设计原则，包括 JSON 优先、运行时 schema 自省、输入防幻觉、dry-run 安全机制等。添加于 2026-04-01
+
+- [awesome-design-md](https://github.com/VoltAgent/awesome-design-md/tree/main) — 精选知名网站 DESIGN.md 文件集合，供 AI 代理生成一致 UI（⭐ 25.5k）。添加于 2026-04-07
