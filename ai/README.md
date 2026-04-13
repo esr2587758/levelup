@@ -50,3 +50,4 @@
 - [awesome-design-md](https://github.com/VoltAgent/awesome-design-md/tree/main) — 精选知名网站 DESIGN.md 文件集合，供 AI 代理生成一致 UI（⭐ 25.5k）。添加于 2026-04-07
 
 - [我敢说这是2026最强的Agent Harness框架：Hermes Agent 全面调研解读](https://zhuanlan.zhihu.com/p/2022015752258027715) — Hermes Agent 开源 Agent 框架全面调研，内置闭环学习与自进化系统（⭐ 17K）。添加于 2026-04-08
+- [AI 时代，我们为什么还要学习？](https://mp.weixin.qq.com/s/RoLV6EDJrtFLhNhWy2N8-A) — 探讨 AI 让智能成本骤降后，教育应从“培养技能”转向“塑造独立思考的人”。添加于 2026-04-13
