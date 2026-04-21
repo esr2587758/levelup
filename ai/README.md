@@ -51,3 +51,5 @@
 
 - [我敢说这是2026最强的Agent Harness框架：Hermes Agent 全面调研解读](https://zhuanlan.zhihu.com/p/2022015752258027715) — Hermes Agent 开源 Agent 框架全面调研，内置闭环学习与自进化系统（⭐ 17K）。添加于 2026-04-08
 - [AI 时代，我们为什么还要学习？](https://mp.weixin.qq.com/s/RoLV6EDJrtFLhNhWy2N8-A) — 探讨 AI 让智能成本骤降后，教育应从“培养技能”转向“塑造独立思考的人”。添加于 2026-04-13
+
+- [Claude Code源码解析：98.4%代码与AI无关](https://m.weibo.cn/status/5289548764677505) — 论文拆解Claude Code v2.1.88源码，仅1.6%是AI决策逻辑，其余98.4%是上下文管理、权限、安全等确定性工程基础设施，揭示其「最小脚手架，最大操作环境」的架构哲学。添加于 2026-04-21
